@@ -10,9 +10,9 @@ https://anevia115.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://hometv.biz.id/logo/lokal/transtv.jpg" group-title="🇮🇩 LOKAL 1 ID",TRANS TV Auto Resolusi
 https://anevia115.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://hometv.biz.id/logo/lokal/indosiar.jpg" group-title="🇮🇩 LOKAL 1 ID",INDOSIAR
-http://lkalpride.x10.mx/indo/indosiar.m3u8
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV
-http://lkalpride.x10.mx/indo/sctv.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://hometv.biz.id/logo/lokal/rcti.jpg" group-title="🇮🇩 LOKAL 1 ID",RCTI Auto Resolusi

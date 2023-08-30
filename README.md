@@ -652,7 +652,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 //copy right by,@hometv menampilkan playlist >>> KNOWLEDGE
 //========================================================================
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/djvVT0C/Discovery-hometv.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3001
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Vx9PG6h/Nat-geo-hometv.jpg" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC

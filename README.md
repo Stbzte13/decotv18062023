@@ -11,7 +11,7 @@ https://anevia115.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://anevia115.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://hometv.biz.id/logo/lokal/indosiar.jpg" group-title="🇮🇩 LOKAL 1 ID",INDOSIAR Auto Resolusi
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8

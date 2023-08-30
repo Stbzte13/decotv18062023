@@ -14,7 +14,7 @@ https://anevia115.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title=" group-title="🇮🇩 LOKAL 1 ID",INDOSIAR Auto Resolusi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title="🇮🇩 LOKAL 1 ID",INDOSIAR Auto Resolusi
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV

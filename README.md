@@ -30,7 +30,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://hometv.biz.id/logo/lokal/rcti.jpg" group-title="🇮🇩 LOKAL 1 ID",RCTI Auto Resolusi
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+http://xtv.ooo:8080/88876776555/87677666654/351023
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

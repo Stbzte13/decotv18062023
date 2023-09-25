@@ -50,7 +50,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://hometv.biz.id/logo/lokal/tvone.jpg" group-title="🇮🇩 LOKAL 1 ID",TV ONE Auto Resolusi
-https://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

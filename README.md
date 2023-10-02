@@ -413,7 +413,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1803502131_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w462129759_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="LOKAL 2",INDOSIAR HD
-https://etslive-2-vidio-com.akamaized.net/exp=1696298012~acl=/hls-p/ingest_205_*/*~hmac=9671e40cef78493de57638a800c4a97ec4525c39edcc08b34df6a41cd957b6a0/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1696298536~acl=/hls-p/ingest_205_*/*~hmac=98b7d1da8e26a3cc616746f0cc6a657f04ed06c7e3236023c3e30c111c1c92fd/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="LOKAL 2",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1696298279~acl=/hls-b/ingest_204_*/*~hmac=c6b95690947888598237ae9717538b1eb6e1bdd207921bf2a058532d4cc19a17/hls-b/ingest_204_720p/index.m3u8

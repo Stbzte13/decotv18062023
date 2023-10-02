@@ -439,7 +439,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="LOKAL 2",TV ONE HD
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281508~acl=/vp9/783_stream.mpd
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696299273~acl=/vp9/783_stream.mpd!/vp9/783/*!/vp9/*/783_stream.mpd!/vp9/*/783/*~hmac=ef0c7745fc68ee8a2fbbaeb1650c26192c037ddc49583de7b2032c9015c91f60/vp9/783/primary/audio-opus/1695617298_667632000000.webm
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="LOKAL 2",ANTV HD
 https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281184~acl=/vp9/782_stream.mpd

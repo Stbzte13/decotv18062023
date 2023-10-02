@@ -407,13 +407,13 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi
 //copy right by,@hometv menampilkan playlist >>> LOKAL 2 HD
 //========================================================================
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/Dp10Ydf/Trans7-hometv.png" group-title="LOKAL 2",TRANS 7 HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/214
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1803502131_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/6NSqzbC/Transtv-hometv.png" group-title="LOKAL 2",TRANS TV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/215
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w462129759_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/3FH3W8G/Indosiar-hometv.png" group-title="LOKAL 2",INDOSIAR HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
+https://etslive-2-vidio-com.akamaized.net/exp=1696280473~acl=/hls-p/ingest_205_*/*~hmac=999f5a3dbfbd092b841b7de148460bad1b8c7cb6ef495806b2f1c6edcf28bfb2/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="LOKAL 2",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1696279976~acl=/hls-p/ingest_204_*/*~hmac=5074572a6671b2365b4c0b172f6d24a6160b0517cbd5caa6d320b036c120fd00/hls-p/ingest_204_720p/index.m3u8

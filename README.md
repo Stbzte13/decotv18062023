@@ -439,10 +439,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="LOKAL 2",TV ONE HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/217
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281508~acl=/vp9/783_stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="LOKAL 2",ANTV HD
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281184~acl=/vp9/782_stream.mpd!/vp9/782/*!/vp9/*/782_stream.mpd!/vp9/*/782/*~hmac=2023a5065695db46a2c98fd04020edbe5a171801f7c21af4976d3af06f38a7f7/vp9/782/primary/audio-opus/1695617295_649578001000.webm
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281184~acl=/vp9/782_stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/s9nB6mD/Nettv-hometv.png" group-title="LOKAL 2",NET TV HD
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/218

@@ -442,7 +442,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/217
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="LOKAL 2",ANTV HD
-https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CrUFdY7RqrxS_MRImLxA_sFZUgU15H7qoensY-Z4m9jcA6JaYa_od342jndAhkZdMqcqT-IaFo7fbwpMfx2GfAFKCOwzpxRTSZNp0ZslpGXeFjSd2k-4d3Ep4AYzDHiFjfnRjUoKcGtTystmU8bM0oIbZNvHQSyyFcr7wIpHJsLSsA0tV7ZZ3-T2Aab2ur6yu5tpT0u6zY-i9tl1ijf2oJbcrQ8jRihB8jeF3i2NpLzlp4Cl626oky1wCPsnvQfeOwk14hvBLwWVxctGkwuqxBQu36lmXjM9TeR1TXT2fizzVr306bNheV96vwC2LKphkpvEtf7dpP1u4p2vwOEnCF36pl9pbmuNh936iPBY3p-hzA3twil0HU0oOnS6eZhUhDtGq91p34TSkTSdRGBr8_BH2WuIeMQTLdmdro1tS4Pos0vl6ZOCcwNH7hIIcW9cane-Uwyf9m-44rUJnnQf15U7plG98Z1nPBDuAHTXKkTCHMQxiNxmtanF1cgimX8HHdHLvave1aAb7bSYq2EPcdWghtjhocBhuuI__IJZxqAqGOI9g-d5tZVYEK52w9cCcBEpXIRGLsZYHQHVGfsgam0OKN6_qtshcI-GMAWTjqjvxheXRnfa5A5yy3rG7nvOwKVgwhZHcq7SR_CS6lz3aZF7gAEVquIjDovMqNG1-SUUVYx7yvEmRtwqKByoXbF-Xv1WhERFnbKd0_8FBBG5hyoAE2D3BNBsa8LTio6P99NoaVxkMi0PetiYnpNCWuVjsgdqYk06qiASEZfqa5HQgjUHHjZ1FwE3lOjUkPeEz0AgUXIl39iZLaAybL0VStBhCmtvurmnX4jde9WbpneqnOCu9DbllcyaZ33Lr92K6_7rsC5CdjROVuZJ1wxJY4NBbbcXQ5UpQysrIQGPpFVHQJVPNhy4Rnw5GgzHR5xRxaaf6scjbhAgASoJdXMtd2VzdC0yMNQ...
+https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281184~acl=/vp9/782_stream.mpd!/vp9/782/*!/vp9/*/782_stream.mpd!/vp9/*/782/*~hmac=2023a5065695db46a2c98fd04020edbe5a171801f7c21af4976d3af06f38a7f7/vp9/782/primary/audio-opus/1695617295_649578001000.webm
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/s9nB6mD/Nettv-hometv.png" group-title="LOKAL 2",NET TV HD
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/218

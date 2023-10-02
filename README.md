@@ -416,7 +416,7 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/215
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/223
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="LOKAL 2",SCTV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/224
+https://etslive-2-vidio-com.akamaized.net/exp=1696279976~acl=/hls-p/ingest_204_*/*~hmac=5074572a6671b2365b4c0b172f6d24a6160b0517cbd5caa6d320b036c120fd00/hls-p/ingest_204_720p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

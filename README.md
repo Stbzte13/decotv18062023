@@ -416,12 +416,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w462129759_b744100_s
 http://tvnid.x10.mx/vidio/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png" group-title="LOKAL 2",SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1696298279~acl=/hls-b/ingest_204_*/*~hmac=c6b95690947888598237ae9717538b1eb6e1bdd207921bf2a058532d4cc19a17/hls-b/ingest_204_720p/index.m3u8
+http://tvnid.x10.mx/vidio/master-1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/x5wfDpt/Rcti-hometv.png" group-title="LOKAL 2",RCTI HD
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1696301141-e1b8bae145560d33f7653b2ab1295a59-0-9b513a27f57d87493d28fd42beec90c8
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -439,10 +439,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="LOKAL 2",TV ONE HD
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696299273~acl=/vp9/783_stream.mpd!/vp9/783/*!/vp9/*/783_stream.mpd!/vp9/*/783/*~hmac=ef0c7745fc68ee8a2fbbaeb1650c26192c037ddc49583de7b2032c9015c91f60/vp9/783/primary/audio-opus/1695617298_667632000000.webm
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="LOKAL 2",ANTV HD
-https://etslive-2-vidio-com.secureswiftcontent.com/exp=1696281184~acl=/vp9/782_stream.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/s9nB6mD/Nettv-hometv.png" group-title="LOKAL 2",NET TV HD
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/218

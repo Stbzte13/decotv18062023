@@ -445,24 +445,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/s9nB6mD/Nettv-hometv.png" group-title="LOKAL 2",NET TV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/218
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/7Gr7HJQ/Metrotv-hometv.png" group-title="LOKAL 2",METRO TV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/219
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/P5qktn0/Kompastv-hometv.png" group-title="LOKAL 2",KOMPAS TV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/222
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/2yxCccx/Rtv-hometv.png" group-title="LOKAL 2",RTV HD
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/221
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co/LZrb49Z/Beritasatu-hometv.png" group-title="LOKAL 2",BERITA SATU
-https://anevia115.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="" tvg-name="MNC NEWS" tvg-logo="https://i.ibb.co/gTQdNsY/Mnc-news-hometv.png" group-title="LOKAL 2",MNC NEWS
 https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 

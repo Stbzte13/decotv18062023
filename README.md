@@ -443,6 +443,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/DKvTJgx/Tvone-hometv.png" group-title="LOKAL 2",TV ONE HD
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/M1jc4r5/Antv-hometv.png" group-title="LOKAL 2",ANTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
@@ -451,6 +453,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.ibb.co/s9nB6mD/Nettv-hometv.png" group-title="LOKAL 2",NET TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/7Gr7HJQ/Metrotv-hometv.png" group-title="LOKAL 2",METRO TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
@@ -459,6 +463,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/P5qktn0/Kompastv-hometv.png" group-title="LOKAL 2",KOMPAS TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/2yxCccx/Rtv-hometv.png" group-title="LOKAL 2",RTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
@@ -467,8 +473,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co/LZrb49Z/Beritasatu-hometv.png" group-title="LOKAL 2",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="MNC NEWS" tvg-logo="https://i.ibb.co/gTQdNsY/Mnc-news-hometv.png" group-title="LOKAL 2",MNC NEWS
-https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

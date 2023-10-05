@@ -490,5 +490,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 #EXTINF:-1 tvg-id="" tvg-name="MAGNA TV" tvg-logo="https://i.ibb.co/fCmvXQZ/Magna-tv-hometv.png" group-title="LOKAL 2",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1202388718_b878000_sleng.m3u8
 
-
+"name": "tvOne",
+      "typedrm": "widevine",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "drmuseragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "cheada": "Referer",
+      "cheadb": "https://www.visionplus.id/",
+      "deremel": "https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe",
+      "poster": "https://1.bp.blogspot.com/-8VGJPEoUglI/YJVWyqTsIDI/AAAAAAAAEbI/Ryk_TKPSfDwKzwNVRUffUY7t7CPsrjlTwCLcBGAsYHQ/s720/tvone-p.png",
+      "stream_url": "https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
 

@@ -265,9 +265,9 @@ http://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="Film" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://hz.mibitivi.xyz/playhls.m3u8?tekon=djisamsoe&channel=bioskopindonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+https://hz.mibitivi.xyz/mibi/sc/ch/bioskopindonesia.m3u8?tekon=djisamsoe
 
 #EXTINF:-1 group-title="Film" tvg-id="ccm.hk" tvg-logo="https://i.imgur.com/X7OZ3w5.png",Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

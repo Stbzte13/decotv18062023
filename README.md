@@ -22,7 +22,7 @@ http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hz.mibitivi.xyz/lic.php?tekon=djisamsoe&a=sctv
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV Auto Resolusi
-https://mibitivi.xyz/vd/chs/play.m3u8?tekon=djisamsoe&channel=204.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

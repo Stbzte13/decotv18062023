@@ -23,9 +23,8 @@ http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/7909
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx

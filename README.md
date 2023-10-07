@@ -19,11 +19,8 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://hometv.biz.id/logo/lokal/indosiar.jpg" group-title="🇮🇩 LOKAL 1 ID",INDOSIAR Auto Resolusi
 http://cdrs.linknetott.aspirapps.net/channelgroup3/cg331production/ch8/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0414_221130_1115
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 1 ID",SCTV
+#EXTINF:-1 group-title="Nasional" tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/BzXmZL7/Sctv-hometv.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://103.166.27.2:800/play/a015
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

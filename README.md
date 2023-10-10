@@ -1,10 +1,10 @@
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL
 //========================================================================
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 LOKAL ID Auto",TRANS 7 Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://hometv.biz.id/logo/lokal/trans7.jpg" group-title="🇮🇩 LOKAL 1 ID",TRANS 7 Auto Resolusi
-https://nonton.site:8443/ekos/7483/930
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -78,10 +78,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sindo_news.jpg" group-title="🇮🇩 LOKAL ID Auto",SINDO NEWS Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="MNC NEWS" tvg-logo="https://hometv.biz.id/logo/lokal/mnc_news.jpg" group-title="🇮🇩 LOKAL 1 ID",MNC NEWS
-https://anevia115.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
@@ -98,10 +98,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://hometv.biz.id/logo/lokal/tvri.jpg" group-title="🇮🇩 LOKAL 1 ID",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" group-title="🇮🇩 LOKAL ID Auto",JAK TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://hometv.biz.id/logo/lokal/jaktv.jpg" group-title="🇮🇩 LOKAL 1 ID",JAK TV Auto Resolusi
-https://anevia115.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wKKTkXx/Usee-prime.jpg" group-title="🇮🇩 LOKAL 1 ID",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd

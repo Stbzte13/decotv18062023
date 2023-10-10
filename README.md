@@ -1,7 +1,7 @@
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="group-title="🇮🇩 LOKAL 1 ID",TRANS 7 Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 LOKAL 1 ID",TRANS 7 Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
@@ -574,41 +574,4 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 1 Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://hometv.pw/my/stream/dash-wv/linear/5058/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 2 Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
-https://hometv.pw/my/stream/dash-wv/linear/5079/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 1 Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-https://hometv.pw/my/stream/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 2 Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-https://hometv.pw/my/stream/dash-wv/linear/5066/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 3 Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-https://hometv.pw/my/stream/dash-wv/linear/2705/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="ID | SPORTS ID",WWE Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-https://hometv.pw/my/stream/dash-wv/linear/2603/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xrtdz4/Nbc-golf-hometv.jpg" group-title="ID | SPORTS ID",GOLF CHANNEL Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
-https://hometv.pw/my/stream/dash-wv/linear/1003/default_primary.mpd
-
-
 

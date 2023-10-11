@@ -333,9 +333,9 @@ http://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="Film" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+https://cdnjkt2.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="Film" tvg-id="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/Sx1993wK/Dunia-Sinema.png",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -580,15 +580,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_p-23KfUw-4V14l1p_uvfy5mMYD1qe4g-j8lwi4hdWY86ryV5g_EXiSq5v2DVOHaOIMXpfEynqVnODlTAQH7yKO0vGhJWjXG30HAlxNeY2P0LA9ul-BzVcXaooJ6HgcWuTE2sNSvYnZgYCS7fKEcMOzcb-upwjYDFveoIhUc3KiPZeLo8fSZehtkW/s720/DAZN-laliga-p.png" group-title="ID | SPORTS ID", DAZN LA LIGA
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_p-23KfUw-4V14l1p_uvfy5mMYD1qe4g-j8lwi4hdWY86ryV5g_EXiSq5v2DVOHaOIMXpfEynqVnODlTAQH7yKO0vGhJWjXG30HAlxNeY2P0LA9ul-BzVcXaooJ6HgcWuTE2sNSvYnZgYCS7fKEcMOzcb-upwjYDFveoIhUc3KiPZeLo8fSZehtkW/s720/DAZN-laliga-p.png" group-title="ID | SPORTS ID",Bein Sport 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licdazn.php?tekon=djisamsoe
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5v2vnd3QFqE/YNAs_WbWebI/AAAAAAAAGNQ/qa9CYE_n-GItkPVBmQnzw-V-ZmaUTrhTgCLcBGAsYHQ/s720/ESPN-p.png" group-title="ID | SPORTS ID", ESPN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licdazn.php?tekon=djisamsoe
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 
 

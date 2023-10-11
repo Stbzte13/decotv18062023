@@ -254,9 +254,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.jpg" group-title="Anak",SQUAD Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/circus.jpg" group-title="Anak",CARTOON CIRCUS Auto Reso
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.jpg" group-title="Anak",SPARKLE POWER Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
 

@@ -575,11 +575,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I7pkFuMiVug/YSJQvnvZMKI/AAAAAAAAHiw/b5BaE1NXy7gJK7JWe-6pNMaMCno9i2P4gCLcBGAsYHQ/s720/BeinSports-3-p.png" group-title="ID | SPORTS ID",Bein Sport 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hz.mibitivi.xyz/lic.php?tekon=djisamsoe&a=bein2
-https://hz.mibitivi.xyz/play.mpd?tekon=djisamsoe&channel=bein2
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CcAzlMhAC1Q/YJbSIhaX-QI/AAAAAAAAE2g/Y8ToxjHYwGQ9bWnnNMkhA7yn-R7qgQg4wCLcBGAsYHQ/s720/AD%2BSport%2B1.png" group-title="ID | SPORTS ID",Abu Dhabi Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
@@ -587,6 +582,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_p-23KfUw-4V14l1p_uvfy5mMYD1qe4g-j8lwi4hdWY86ryV5g_EXiSq5v2DVOHaOIMXpfEynqVnODlTAQH7yKO0vGhJWjXG30HAlxNeY2P0LA9ul-BzVcXaooJ6HgcWuTE2sNSvYnZgYCS7fKEcMOzcb-upwjYDFveoIhUc3KiPZeLo8fSZehtkW/s720/DAZN-laliga-p.png" group-title="ID | SPORTS ID", DAZN LA LIGA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licdazn.php?tekon=djisamsoe
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 

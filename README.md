@@ -420,6 +420,8 @@ https://mangga-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/natgeo.jpg" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://live.tv247us.com/tv247/national.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/bbc_earth.jpg" group-title="KNOWLEDGE",BBC EARTH Auto Reso

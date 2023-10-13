@@ -409,7 +409,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/9ZBzkBz/Gtv-hometv.png" group-title="LOKAL 2",GTV HD
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://mangga-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD-avc1_299968=6-2771487080000000.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe

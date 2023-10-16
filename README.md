@@ -114,8 +114,6 @@ TINF:-1 tvg-logo="https://hometv.pw/logo/lokal/daaitv.jpg" group-title="🇮🇩
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 group-title="🇮🇩 LOKAL 2 ID HD" tvg-id="indosiar.sg" tvg-logo=https://hometv.pw/logo/lokal/indosiar.jpg"",Indosiar
-https://cdnjkt2.transvision.co.id:1003/live/chunk/4028c685651d7bcc01651f0db0bf0097/eng/chunk-stream3-59946
 
 
 
@@ -340,7 +338,7 @@ http://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/ccm.jpg" group-title="MOVIES",CCM Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/ccm.jpg" group-title="Film",CCM Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd

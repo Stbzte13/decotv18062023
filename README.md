@@ -115,8 +115,11 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3367
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3368
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TV ONE HD
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/217
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",ANTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
 https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",NET TV HD
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/218
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",METRO TV HD

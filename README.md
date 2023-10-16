@@ -97,58 +97,23 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL 2 HD
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TRANS 7 HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TRANS TV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/215
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="🇮🇩 LOKAL 2 ID HD",INDOSIAR HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/223
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",SCTV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/224
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="🇮🇩 LOKAL 2 ID HD",RCTI HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",MNC TV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",GTV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3367
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="🇮🇩 LOKAL 2 ID HD",iNEWS HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3368
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TV ONE HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/217
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",ANTV HD
-http://108.138.141.101:443
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",NET TV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/218
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",METRO TV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/219
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",KOMPAS TV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/222
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",RTV HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/221
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/beritasatu.jpg" group-title="🇮🇩 LOKAL 2 ID HD",BERITA SATU
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/220
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sindo_news.jpg" group-title="🇮🇩 LOKAL 2 ID HD",SINDO NEWS Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.jpg" group-title="🇮🇩 LOKAL 2 ID HD",CNN INDONESIA
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3432.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.jpg" group-title="🇮🇩 LOKAL 2 ID HD",CNBC INDONESIA
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3433.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvri.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TVRI
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3434.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",JAK TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="🇮🇩 LOKAL 2 ID HD",USEE PRIME Auto Resolusi
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/daaitv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",DAAI TV Auto Resolusi
+
+TINF:-1 tvg-logo="https://hometv.pw/logo/lokal/daaitv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",DAAI TV Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
 
 ######################
 ######## ANAK ########

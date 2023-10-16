@@ -118,7 +118,6 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/217
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",ANTV HD
 http://108.138.141.101:443
-https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",NET TV HD
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/218

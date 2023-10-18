@@ -441,8 +441,19 @@ https://mangga-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTINF:-1 group-title="Film" tvg-id="hboasia.sg" tvg-logo="https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8
+#https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8?a=hbo&tekon=djisamsoe
 
+name: HBO,
+#KODIPROP: typedrm: widevine,
+#KODIPROP: useragent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36,
+#KODIPROP: drmuseragent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36,
+#KODIPROP: cheada: Referer,
+#KODIPROP: cheadb: https://maxstream.tv/,
+#KODIPROP: deremel: https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true,
+#EXTINF:-1 group-title="Film" tvg-id="hboasia.sg" poster:"https://1.bp.blogspot.com/-fVO4vCYo_Bo/YJZOdutTXbI/AAAAAAAAEqs/yWuL62zcS50CoTEme5Gpgkwb51VIJHE4ACLcBGAsYHQ/s720/HBO-Poster.png",
+https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8?a=hbo&tekon=djisamsoe
+#https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> KNOWLEDGE
 //========================================================================

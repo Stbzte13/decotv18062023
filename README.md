@@ -442,7 +442,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://maxstream.tv/
+#https://maxstream.tv/
 https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8?a=hbo&tekon=djisamsoe
 
 

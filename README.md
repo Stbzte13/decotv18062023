@@ -528,6 +528,9 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://1.bp.blogspot.com/-k4y2r0UITFQ/YNyjuM8pV4I/AAAAAAAAGa0/2E3AnlUhkckyExT9GoIcmGpv9yG4ac6CACLcBGAsYHQ/s720/DAZN2-p.jpg" group-title="SPORTS ID",DAZN 2 DE
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Ap5xOuVswFcK8S0T08Y-h6sQlpiNlIoZsRzzyy_JXHpdWLwefHOfmJCnMxjINwGyrxeZ6boqgXz2tOfeiUjt-Zqh3vrR-SUCUJulha8zhedUNo7FOraEWcW7iYrDKJXaGJQ0VCj6qxxixIYhZPuamEXVrA3Av2eVNMjimmf5z5gIrFVk-neUBgVi/s720/eurosport-p.png" group-title="SPORTS ID",EUROSPORT
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 

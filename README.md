@@ -507,30 +507,3 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshij
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport ES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjPohdwyA4_9LHYj5IEgm9JeY-_Mo6D8IaG6MCm7SjUv6NbXlMB-tR3A119fED5WdTzupcAOAdAExLF53nV8OyDr9_IomqtjFnDcZHokaNM1CzOyVgxvr7g0nGUbnYGLB1PxhN1AdGKbrNVWU-UR8Nf3Z7x6jiOZScsUq_alKkAtmwr3SepJPwR4bhf=s720" group-title="SPORTS ID",Bein ES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Extra CA" tvg-logo=https://1.bp.blogspot.com/-i0aSRbji-Y0/YJbSQvzdvFI/AAAAAAAAE4I/II6UHJEsA6krsWGkZvkeDDTyW3oB0HZCwCLcBGAsYHQ/s720/beinxtra-p.png" group-title="SPORTS ID",Bein Extra ES
-https://1.bp.blogspot.com/-i0aSRbji-Y0/YJbSQvzdvFI/AAAAAAAAE4I/II6UHJEsA6krsWGkZvkeDDTyW3oB0HZCwCLcBGAsYHQ/s720/beinxtra-p.pngtps://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 DE" tvg-logo="https://1.bp.blogspot.com/--4Scigaf2PY/YNyjuLnHUWI/AAAAAAAAGa4/d2EHTkdHDegKrIaIucnAnSQTlZZzKtMhgCLcBGAsYHQ/s720/DAZN1-p.png" group-title="SPORTS ID",DAZN 1 DE
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://1.bp.blogspot.com/-k4y2r0UITFQ/YNyjuM8pV4I/AAAAAAAAGa0/2E3AnlUhkckyExT9GoIcmGpv9yG4ac6CACLcBGAsYHQ/s720/DAZN2-p.jpg" group-title="SPORTS ID",DAZN 2 DE
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="MNC SPORT 1" tvg-logo="https://i.ibb.co/tB019PQ/Mnc-sports-1-hometv.jpg" group-title="SPORTS ID",MNC SPORT 1
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Ap5xOuVswFcK8S0T08Y-h6sQlpiNlIoZsRzzyy_JXHpdWLwefHOfmJCnMxjINwGyrxeZ6boqgXz2tOfeiUjt-Zqh3vrR-SUCUJulha8zhedUNo7FOraEWcW7iYrDKJXaGJQ0VCj6qxxixIYhZPuamEXVrA3Av2eVNMjimmf5z5gIrFVk-neUBgVi/s720/eurosport-p.png" group-title="SPORTS ID",EUROSPORT
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-

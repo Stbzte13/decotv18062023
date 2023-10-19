@@ -519,12 +519,12 @@ https://www.maternidadebemsimples.com/wp-content/plugins/super-links/application
 https://cassiosmmarketing.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licdazn.php?tekon=djisamsoe
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 DE" tvg-logo="https://1.bp.blogspot.com/--4Scigaf2PY/YNyjuLnHUWI/AAAAAAAAGa4/d2EHTkdHDegKrIaIucnAnSQTlZZzKtMhgCLcBGAsYHQ/s720/DAZN1-p.png" group-title="SPORTS ID",DAZN 1 DE
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licdazn.php?tekon=djisamsoe
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://1.bp.blogspot.com/-k4y2r0UITFQ/YNyjuM8pV4I/AAAAAAAAGa0/2E3AnlUhkckyExT9GoIcmGpv9yG4ac6CACLcBGAsYHQ/s720/DAZN2-p.jpg" group-title="SPORTS ID",DAZN 2 DE
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 

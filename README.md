@@ -510,13 +510,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Extra CA" tvg-logo=https://1.bp.blogspot.com/-i0aSRbji-Y0/YJbSQvzdvFI/AAAAAAAAE4I/II6UHJEsA6krsWGkZvkeDDTyW3oB0HZCwCLcBGAsYHQ/s720/beinxtra-p.png" group-title="SPORTS ID",Bein Extra ES
-http://welovegatos.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 https://1.bp.blogspot.com/-i0aSRbji-Y0/YJbSQvzdvFI/AAAAAAAAE4I/II6UHJEsA6krsWGkZvkeDDTyW3oB0HZCwCLcBGAsYHQ/s720/beinxtra-p.pngtps://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-https://meumundomaisdigital.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.phphttps://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-https://aprendagora.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-https://comprecompedrosantos.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-https://www.maternidadebemsimples.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
-https://cassiosmmarketing.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
@@ -527,6 +521,12 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 DE" tvg-logo="https://1.bp.blogspot.com/-k4y2r0UITFQ/YNyjuM8pV4I/AAAAAAAAGa0/2E3AnlUhkckyExT9GoIcmGpv9yG4ac6CACLcBGAsYHQ/s720/DAZN2-p.jpg" group-title="SPORTS ID",DAZN 2 DE
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPORT 1" tvg-logo="https://i.ibb.co/tB019PQ/Mnc-sports-1-hometv.jpg" group-title="SPORTS ID",MNC SPORT 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=0d6712bf2a84edcc93d001a9613f6fec&kid=cfb5e2b73bef4f3c878f25ab86a7451f&tekon=djisamsoe

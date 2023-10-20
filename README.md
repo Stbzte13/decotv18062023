@@ -115,8 +115,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",MNC TV Auto Resolusi
-https://mnctv-linier.rctiplus.id/hdntl=exp=1697865246~acl=%2F*~data=hdntl~hmac=00274d1973016b05d6f9e196068ba3f0ed467fa0a86f34fd1453ac6e989e800e/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-
+https://1d-mnctv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1697848160-bf576d6a845051f10f3c5f959dc51f96-0-a64891d0b7705694c8fe5089ee8a8e8b
 
 ######################
 ######## ANAK ########

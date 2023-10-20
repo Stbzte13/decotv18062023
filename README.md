@@ -111,7 +111,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="🇮🇩 LOKAL 2 ID HD",iNEWS Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licvp.php?tekon=djisamsoe
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 

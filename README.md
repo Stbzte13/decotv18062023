@@ -508,3 +508,81 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshij
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport ES" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjPohdwyA4_9LHYj5IEgm9JeY-_Mo6D8IaG6MCm7SjUv6NbXlMB-tR3A119fED5WdTzupcAOAdAExLF53nV8OyDr9_IomqtjFnDcZHokaNM1CzOyVgxvr7g0nGUbnYGLB1PxhN1AdGKbrNVWU-UR8Nf3Z7x6jiOZScsUq_alKkAtmwr3SepJPwR4bhf=s720" group-title="SPORTS ID",Bein ES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVD132W/Usee-sports-1-hometv.jpg" group-title="ID | SPORTS ID",USEE Sports 1 HD
+http://kuchini.site:8080/dooby1312/b244f7ab/24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="ID | SPORTS ID",USEE Sports 2 HD
+http://kuchini.site:8080/dooby1312/b244f7ab/25
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="ID | SPORTS ID",MOJI HD
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/24
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="ID | SPORTS ID",SPORTSTARS 1 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="ID | SPORTS ID",SPORTSTARS 2 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="ID | SPORTS ID",SPORTSTARS 3 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="ID | SPORTS ID",SPORTSTARS 4 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="ID | SPORTS ID",SOCCER CHANNEL Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 1 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 2 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 1 Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3908.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="ID | SPORTS ID",SPO TV 2 Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3909.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 1 ID HD
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/25
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 3 ID HD
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/26
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 1 Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3910.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://hometv.pw/logo/sports/bein_id.jpg" group-title="ID | SPORTS ID",beIN Sports 3 Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3911.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="ID | SPORTS ID",WWE Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3689.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xrtdz4/Nbc-golf-hometv.jpg" group-title="ID | SPORTS ID",GOLF CHANNEL Manual Set
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
+http://103.150.197.226:25461/movie/hometv@226MPD/Wdk8VzyYTG/3690.mpd
+

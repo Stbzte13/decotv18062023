@@ -13,12 +13,15 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="🇮🇩 LOKAL ID Auto",INDOSIAR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://tvkuonline.my.id:25461/riyad/riyad/14
+#EXTVLCOPT:http-reverer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 LOKAL ID Auto",SCTV Auto Resolusi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://iptvme.xyz/vid/hls.m3u8?id=204
+#EXTVLCOPT:http-reverer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="🇮🇩 LOKAL ID Auto",RCTI Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

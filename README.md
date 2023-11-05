@@ -698,10 +698,6 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Luar Negeri" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://hses3.hotstar.com/videos/movies/english/captainmarvel/1260014878/1590847085311/fd2d1bf9b418a94855c25e4e6161bef5/video/avc1/2/init.mp4
 
 
 

@@ -237,10 +237,10 @@ https://mangga-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD
 
 #EXTINF:-1 group-title="Film" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-referrer=https://cubmu.com/
 #KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cmt.mb13.cyou/bW9kZXJv/ku/see/c.m3u8?a=hbo&tekon=djisamsoe
+https://cdnjkt2.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="Film" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 

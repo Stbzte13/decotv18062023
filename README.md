@@ -702,7 +702,22 @@ https://sport.livedoomovies.com:4432/02_sports5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> LIVE | SPORTS
+//========================================================================
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 1
+https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1699663605-0-0-ff8072efcb6d39ae6f101b9ea3098a81
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 2
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/55
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 3
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3962
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_event.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT 1
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/63
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_event.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT 2
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/69
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_event.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT 3
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/70
 
 
 

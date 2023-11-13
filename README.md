@@ -232,10 +232,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://cloudserver.home-tv.my.id/my/dash-wv/linear/2304/default_primary.mpd
 
 #EXTINF:-1 group-title="Film" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/5053/default_primary.mpd
 
 #EXTINF:-1 group-title="Film" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -665,10 +664,7 @@ https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1699663605-0-0-ff80
 https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1699664025-0-0-0b18e925c47fa3939c826e6cef5d2abb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6MzEzODkyNzYtNDQ3YS00NmRjLWFkOTUtMDdjNWVjODU0YTAw
-https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/index.mpd
+http://103.166.27.2:8112/play/a016
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

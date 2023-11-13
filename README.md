@@ -661,7 +661,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1699663605-0-0-ff8072efcb6d39ae6f101b9ea3098a81
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 2
-https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1699664025-0-0-0b18e925c47fa3939c826e6cef5d2abb
+http://103.150.190.37:25461/play/29
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 1
 http://103.166.27.2:8112/play/a016

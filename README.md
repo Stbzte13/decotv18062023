@@ -149,7 +149,7 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 group-title="👫 KIDS" tvg-id="toonzkids.id" tvg-logo="https://i.imgur.com/gdlqRUy.png",Toonz Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="Anak" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
+#EXTINF:-1 group-title="👫 KIDS" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.jpg" group-title="👫 KIDS",SPACETOON Auto Reso

@@ -654,10 +654,13 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 //copy right by,@hometv menampilkan playlist >>> LIVE | SPORTS
 //========================================================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 1
-https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1699663605-0-0-ff8072efcb6d39ae6f101b9ea3098a81
+https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-k82rekhwv4ykrep.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 2
 http://103.150.190.37:25461/play/29
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 3
+https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-jw2r09h2jlw6rz8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 1
 http://103.166.27.2:8112/play/a016

@@ -124,25 +124,25 @@ http://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 ######## MNC GROUP ########
 ###########################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -152,17 +152,17 @@ http://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 ######## EMTEK GROUP ########
 #############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
@@ -171,12 +171,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 ######## VIVA GROUP ########
 ############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
@@ -185,17 +185,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 ######## TRANS MEDIA ########
 #############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
@@ -203,19 +203,19 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 ######## MEDIA GROUP ########
 #############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="bntv.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="bntv.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
@@ -224,7 +224,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 ######## KOMPAS GRAMEDIA ########
 #################################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="KompasTV.id" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -233,7 +233,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 ######## NET MEDIATAMA ########
 ###############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="NET.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="NET.id" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
@@ -242,7 +242,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 ######## RAJAWALI CORP ########
 ###############################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
@@ -251,39 +251,39 @@ http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
 ###### LAIN-LAIN #####
 ######################
 
-#EXTINF:-1 group-title="Nasional" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/useeprime.png",Usee Prime
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="UseePrime.id" tvg-logo="https://iptv.urfan.web.id/logo/useeprime.png",Usee Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="TVRParlemen.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrparlemen.png",TVR PARLEMEN
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="TVRParlemen.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrparlemen.png",TVR PARLEMEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://wowza.dpr.go.id/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinet.png",RRI NET
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinet.png",RRI NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://rrinet.rri.co.id/hls/live.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@GPRTVKominfo
 
-#EXTINF:-1 group-title="Nasional" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png",SEA TODAY
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="SEATODAY.id" tvg-logo="https://iptv.urfan.web.id/logo/seatodaytv.png",SEA TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
@@ -1002,84 +1002,37 @@ https://i.mjh.nz/SamsungTVPlus/CHBA3300010UC.m3u8
 #########################   "Live event 1  ##############################
 #######################################################################
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="Live event 1", GP 2
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="Live event 1", GP 3
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="Live event 1", GP 5
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="Live event 1", GP 6
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
-
-
-##############################Live event 2 ##############################
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 1
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 2
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 3
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9aaeb3f74e57ee6d32b2b00359e711c5:8edaf24345beda77edb5430f76153e5d
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 4
-https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83ba65537ca86180a3/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7990eaceef137ccf32106593abd33c3:67d835357d1f5b42b91ef27181d04fd4
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 5
-https://production-drm-vidio-com-event-5.akamaized.net/out/v1/b433318b703240799f5940024d113bc6/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36d6fcd4402da11397ea4182101df094:d0f61dbd6f228467a3e0d7caa7ee8031
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 6
-https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4020b7af8eeb925/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 7
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 8
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3eed2a9bd7a7f4aaf2709e960b4353ae:3913a253cf7557484b88223418a97815
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 14
-https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92b52f9e8987f0e8/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=142b8b882fc06a2e3ec0d0e454a5fa21:c2fae79e079339de27f6a2ace46e303b
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event 15
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 1
-https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 2
-https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
-#EXTINF:-1 tvg-logo="https://www.go-globe.com/wp-content/uploads/2023/03/big_thumb_live_streaming.png", group-title="Live event 2", Event EPL 3
-https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 1
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41528_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 2
+https://stream.ayas.ir/hls2/bein5.m3u8
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 3
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 4
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=50530_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 5
+http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=47346_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55550&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 7
+http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=861836&extension=ts&play_token=k8hN59PvTf
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 8
+http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:6B:06:77&stream=552870_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 9
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1021130_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 11
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1756294_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 12
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497336_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 13
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497338_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 14
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=2594_&extension=ts
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 15
+http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=311684&extension=ts&play_token=k8hN59PvTf
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="LIVE", LIVE 16
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1350754_&extension=ts
 
 

@@ -975,7 +975,7 @@ https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
 https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-k82rekhwv4ykrep.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 2
-http://103.150.190.37:25461/play/29
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 3
 https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-jw2r09h2jlw6rz8.m3u8

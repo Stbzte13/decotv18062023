@@ -761,7 +761,7 @@ http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s37/index.m3u8
 
-#EXTINF:-1 tvg-id="english-club-tv" group-title="Pengetahuan" tvg-logo="https://i.imgur.com/9FMvaRK.png",English Club
+#EXTINF:-1 tvg-id="english-club-tv" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/9FMvaRK.png",English Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
 

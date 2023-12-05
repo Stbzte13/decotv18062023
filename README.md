@@ -804,69 +804,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/hbo.jpg" group-title="🇲🇾 MOVIES MALAYSIA",HBO Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2304/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/hbo_hits.jpg" group-title="🇲🇾 MOVIES MALAYSIA",HBO HITS Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5055/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/hbo_family.jpg" group-title="🇲🇾 MOVIES MALAYSIA",HBO FAMILY Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5053/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/cinemax.jpg" group-title="🇲🇾 MOVIES MALAYSIA",CINEMAX Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/603/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/warner.jpg" group-title="🇲🇾 MOVIES MALAYSIA",WARNER TV Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2605/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/paramount.jpg" group-title="🇲🇾 MOVIES MALAYSIA",PARAMOUNT Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/5056/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/hits.jpg" group-title="🇲🇾 MOVIES MALAYSIA",HITS Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/606/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/hits_movies.jpg" group-title="🇲🇾 MOVIES MALAYSIA",HITS MOVIES Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2305/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/celestial_movies.jpg" group-title="🇲🇾 MOVIES MALAYSIA",Celestial Movies Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/506/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/ccm.jpg" group-title="🇲🇾 MOVIES MALAYSIA",CCM Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/100/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/axn.jpg" group-title="🇲🇾 MOVIES MALAYSIA",AXN Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2303/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/kix.jpg" group-title="🇲🇾 MOVIES MALAYSIA",KIX Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/607/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/tvn.jpg" group-title="🇲🇾 MOVIES MALAYSIA",TVN Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1001
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/1001/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/tvn_movies.jpg" group-title="🇲🇾 MOVIES MALAYSIA",TVN MOVIES Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2406/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/one.jpg" group-title="🇲🇾 MOVIES MALAYSIA",ONE Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2702
-https://cloudserver.home-tv.my.id/my/dash-wv/linear/2702/default_primary.mpd
-
-
-
 
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> KNOWLEDGE

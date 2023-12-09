@@ -795,12 +795,40 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/my_family_channel.jpg" group-title="MOVIES",My FAMILY Channel Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzvqV00/hbofamily.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="MOVIES",HBO Family 
+http://208.115.225.174:14144
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0  group-title="MOVIES" tvg-logo="https://i.ibb.co/258SCqs/hboplus.jpg",Hbo Plus
+http://208.115.225.174:14152
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0  group-title="MOVIES" tvg-logo="https://i.ibb.co/Z2kKC3L/Hbo-Extrem.jpg",Hbo Extrem
+http://208.115.225.174:14165
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/KD5XXz0/cinamax.png",Cinemax
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012 
+
+
+
+
+
+
 
 
 

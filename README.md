@@ -1,28 +1,28 @@
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL
 //======================================================================== 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 NASIONAL",TRANS 7 Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="🇮🇩 NASIONAL",TRANS 7 Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1242509765_b744100_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://hometv.biz.id/logo/lokal/transtv.jpg" group-title="🇮🇩 NASIONAL",TRANS TV Auto Resolusi
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://hometv.biz.id/logo/lokal/transtv.png" group-title="🇮🇩 NASIONAL",TRANS TV Auto Resolusi
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="🇮🇩 NASIONAL",INDOSIAR SD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="🇮🇩 NASIONAL",INDOSIAR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-reverer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 NASIONAL",SCTV Auto Resolusi
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.png" group-title="🇮🇩 NASIONAL",SCTV Auto Resolusi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-reverer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="🇮🇩 NASIONAL",RCTI Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="🇮🇩 NASIONAL",RCTI Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

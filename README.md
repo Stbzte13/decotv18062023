@@ -8,7 +8,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1242509765_b744100_sl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://hometv.biz.id/logo/lokal/transtv.png" group-title="🇮🇩 NASIONAL",TRANS TV Auto Resolusi
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="🇮🇩 NASIONAL",TRANS TV Auto Resolusi
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="🇮🇩 NASIONAL",INDOSIAR SD
@@ -17,7 +17,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.png" group-title="🇮🇩 NASIONAL",SCTV Auto Resolusi
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal/sctv.jpg" group-title="🇮🇩 NASIONAL",SCTV Auto Resolusi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-reverer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -870,7 +870,7 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/nasa.jpg" group-title="KNOWLEDGE",NASA TV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/nasa.png" group-title="KNOWLEDGE",NASA TV
 #https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 
@@ -953,7 +953,8 @@ https://cloudserver.home-tv.my.id/my/dash-wv/linear/5094/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 https://cloudserver.home-tv.my.id/my/dash-wv/linear/501/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/nasa.jpg" group-title="KNOWLEDGE",NASA TV
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/nasa.png" group-title="KNOWLEDGE",NASA TV
 #https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 

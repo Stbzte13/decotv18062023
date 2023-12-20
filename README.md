@@ -1170,9 +1170,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="SPORTS" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="SPORTS ID" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="SPORTS" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
+#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="SPORTS ID" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1191,7 +1191,7 @@ https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5066/default.mpd
 #EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", bEIN SPORTS 3 (My)
 https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/2705/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS", MU TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS ID", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

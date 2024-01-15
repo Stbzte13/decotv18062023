@@ -1082,21 +1082,6 @@ https://edge2.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Sports 7" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-7.png" group-title="SPORTS ID",True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=Abu Dhabi Sport"" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-adsport-1.png" group-title="SPORTS ID",Abu Dhabi Sport
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=Abu Dhabi Sport 2"" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-adsport-2.png" group-title="SPORTS ID",Abu Dhabi Sport 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=Abu Dhabi Sport 3"" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-adsport-3.png" group-title="SPORTS ID",Abu Dhabi Sport 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=Abu Dhabi Sport 4"" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-adsport-4.png" group-title="SPORTS ID",Abu Dhabi Sport 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name= Abu Dhabi YAS"" tvg-logo="https://tchiphuong.github.io/iptv/images/background/s-yas.png" group-title="SPORTS ID", Abu Dhabi YAS
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bein-sports-1-en" group-title="SPORTS ID" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
@@ -1289,30 +1274,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png",Dazn Laliga
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS ID" , DAZN COMBAT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS ID" , DAZN FAST+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS ID" , DAZN RISE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="" group-title="SPORTS ID" , DAZN WOMEN'S FOOTBALL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -1539,34 +1500,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 
 ======================================================================================
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS ID" tvg-logo="", PRIMA SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
-https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORTS ID" tvg-logo="", PRIMA SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
-https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORTS ID" tvg-logo="", PRIMA SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
-https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORTS ID" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.pngg", PRIMA SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
-https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
 #EXTINF:-1   tvg-logo="" group-title="SPORTS ID",Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1   tvg-logo="" group-title="SPORTS ID",Sony TEN 2 HD 
@@ -1681,14 +1614,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LIVE | SPORTS
 //========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 1
-https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-k82rekhwv4ykrep.m3u8
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 2
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/live_server.jpg" group-title="📌 | LIVE EVENT",LIVE EVENT SERVER 3
-https://01fhls.1mv.xyz/v3/get/s3/aHR0cHM6Ly8xMmEwMDFhOTBhOGM0NTkyN2Y3NzEwYTZlZTAyZThlNi52LnNtdGNkbnMubmV0/play1nm.hnyongshun.cn/live/sd-jw2r09h2jlw6rz8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 1
 http://103.166.27.2:8112/play/a016

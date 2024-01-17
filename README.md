@@ -570,11 +570,19 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 ######### FILM #########
 ########################
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO MAX BK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4z9qvRVP8UppbvHBp6C0lg","kid":"utm7n0xVOtu5BGBD3E9Kfg"}]}
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="MOVIES", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -1597,157 +1605,200 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 6
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110912&extension=ts&play_token=Bpph6LdgyS
 
-#########################   "Live event 1  ##############################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 8
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 9
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41809_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 10
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1282748&extension=ts&play_token=mPBaNK3aZ6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 11
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913381&extension=ts&play_token=CWhwcm5IsT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 12
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63303_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 13
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350557_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 14
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61818_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 16
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9180_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 17
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913380&extension=ts&play_token=MA765eYvLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 18
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132717&extension=ts&play_token=JIQAe2UvyK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 19
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110765&extension=ts&play_token=8dUyatZl02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 20
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032471&extension=ts&play_token=InCwgv0Zsg
+
+
+#########################   "moto gp" ##############################
 #######################################################################
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 1
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41528_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692421&extension=ts&play_token=DNtPXPsBWp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=11485_&extension=ts&play_token=W0JcMWGscf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 2
-https://stream.ayas.ir/hls2/bein5.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 3
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&extension=ts&play_token=TP5qtHk8iF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 4
+http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 4
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=50530_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 5
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=47346_&extension=ts
+#########################   "UFC" ##############################
+#######################################################################
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 6
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55550&extension=ts
+#EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=58305&extension=ts
+#EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 2
+http://190.61.43.117:45000/play/a060
+#EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174995&extension=ts
+#EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=825538&extension=ts
+#EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=2192_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 7
-http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=861836&extension=ts&play_token=k8hN59PvTf
+#########################   "ARAB SPORT" ##############################
+#######################################################################
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 8
-http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:6B:06:77&stream=552870_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 9
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 10
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1021130_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZB2au0dY9CKyt9WhC87bN8ehJMHfxGH4NS4YiFSkT11pSmifjyaqc2tcmbqLJMROeLw&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 1 HLS
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fHWC0Vz6sD7Z-tf3JFUjVOzLt8dR6wgWU0t6R50YRMr8f4W5bHbsMI8L&s=10" group-title="ARAB SPORT",  SSC SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022746_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGYpKKhXY0Q678Nsr97dwOoDsYQu8NzDiMA&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022747_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniQXHVm2TitdDs1SPupsgTmbldAYYuswGxg&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022684_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhgMIoGuzJmGO2lkrk9v5aOnT2y6mcINYpmQ&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022748_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZ7abECXoOt0QhPJuIldeRCtbP12aUQu4Vw&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022749_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZmRjYBvh2rckqudzQIvudONxhyELSK4nhcA&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT EXTRA 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022750_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW-uh8uf2T3_scNeE1jHhpCegL3bqbX27ng&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT EXTRA 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022751_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKv1ivxAP2EBgjZMnzxs3qk1w6eH7He14pvg&usqp=CAU" group-title="ARAB SPORT",  KSA SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022664_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqI7h8cq14Va84nUPsRr4HpnGORYpxCi204w&usqp=CAU" group-title="ARAB SPORT",  KSA SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022666_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoO0_gy71XUv8ksz0frl--quwtze3diLpGA&usqp=CAU" group-title="ARAB SPORT",  KSA SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022667_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoO0_gy71XUv8ksz0frl--quwtze3diLpGA&usqp=CAU" group-title="ARAB SPORT",  KSA SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022668_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 11
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1756294_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHxGIJdS76oj3AoAn6TSHDzSspsZS-Tt1NA&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591593&extension=ts&play_token=WEnJ6rCf8N
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2plfYNylNeQ83O-1Ko8s8vz2E-rfp3aP3fw&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591591&extension=ts&play_token=69XbVNz3eh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpE9oIYJzvRTzuJOELfpjD8tuX4vKOYKiCug&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=787903&extension=ts&play_token=s3H2ka9Hrr
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIRYhnogjH3TzbQh1lPc0DOTPbqHB6auiZQ&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591589&extension=ts&play_token=eh3HFtVVyn
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIRYhnogjH3TzbQh1lPc0DOTPbqHB6auiZQ&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591587&extension=ts&play_token=bth9E52RsA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeIRYhnogjH3TzbQh1lPc0DOTPbqHB6auiZQ&usqp=CAU" group-title="ARAB SPORT",  AL KASS SPORT 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=787906&extension=ts&play_token=ILghWThaVl
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 12
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497336_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22a_FGx7vS7-ySwPntL9ShQK4DCfC6WmzpQ&usqp=CAU" group-title="ARAB SPORT",  ON TIME SPORT 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1088914&extension=ts&play_token=rDTSYrTsdt
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ontime-sports-2-2033.png" group-title="ARAB SPORT",  ON TIME SPORT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1088916&extension=ts&play_token=oGu580ZnIN
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ontime-sports-2-2033.png" group-title="ARAB SPORT",  ON TIME SPORT 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1088917&extension=ts&play_token=bxrNQLBOD7
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 13
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497338_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ABU DHABI SPORT 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=993336&extension=ts&play_token=pQplpi4mkp
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  ABU DHABI SPORT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=993338&extension=ts&play_token=wuf7jLoB9l
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 14
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=2594_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  LIBYA SPORT 
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591566&extension=ts&play_token=jlbIbWupgR
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  IRAQIA SPORT 
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=8116&extension=ts&play_token=ohbHkpuPyE
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KUWAIT SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591568&extension=ts&play_token=a9ZYun1mNd
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KUWAIT SPORT FHD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=138606&extension=ts&play_token=0pcHVs4Xgb
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  KUWAIT SPORT+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591567&extension=ts&play_token=ImCGIemKwb
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT",  NILE SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591564&extension=ts&play_token=jZqboDB8d4
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 15
-http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=311684&extension=ts&play_token=k8hN59PvTf
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 1 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=544254&extension=ts&play_token=u9WL1WtfhP
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 2 HD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=544256&extension=ts&play_token=vLiEsZ0JfJ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 3 HD
+http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115204
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="📌 | LIVE EVENT", LIVE 16
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1350754_&extension=ts
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_1.png" group-title="ARAB SPORT", AL KASS SPORT 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6578&extension=ts&play_token=5d1hKhqZGm
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_2.png" group-title="ARAB SPORT", AL KASS SPORT 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6577&extension=ts&play_token=xG974qULZL
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_3.png" group-title="ARAB SPORT", AL KASS SPORT 3
+http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/38154
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_4.png" group-title="ARAB SPORT", AL KASS SPORT 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167322&extension=ts&play_token=dHzsSuwllS
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_5.png" group-title="ARAB SPORT", AL KASS SPORT 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=167323&extension=ts&play_token=IIC2293js6
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8086&extension=ts&play_token=echIdxK5ku
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=84251&extension=ts&play_token=NEXHUmCXOg
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI SPORT 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591578&extension=ts&play_token=BBWVT3hdMm
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI RACING 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=84250&extension=ts&play_token=1ym4Ssj8Sm
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI RACING 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8242&extension=ts&play_token=VVKtBL4vBS
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", DUBAI RACING 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591581&extension=ts&play_token=KD8tWVZtPg
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AD SPORT 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=7831&extension=ts&play_token=i2gNPUDXW8
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AD SPORT 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=7830&extension=ts&play_token=KPBCm96RAY
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AD SPORT ASIA 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860836&extension=ts&play_token=uQH5MQ2DUQ
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", AD SPORT ASIA 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=860837&extension=ts&play_token=Td18IctXEg
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", YASS SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=6579&extension=ts&play_token=2VJUjjCYqP
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", PALESTINA SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=591559&extension=ts&play_token=HmtFGozInu
+#EXTINF:-1 tvg-logo="______" group-title="ARAB SPORT", IRAQIA SPORT
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=8116&extension=ts&play_token=9toeC6kh9K
 
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> ENTERTAINMENT
-//========================================================================
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png" group-title="ENTERTAINMENT",DUNIA LAIN
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/6661.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/one.png" group-title="ENTERTAINMENT",SONY ONE Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/rock_enter.png" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/tvn.png" group-title="ENTERTAINMENT",TVN Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/vision_prime.png" group-title="ENTERTAINMENT",VISION PRIME Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/oktv.png" group-title="ENTERTAINMENT",OK TV Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/fmn.png" group-title="ENTERTAINMENT",FMN Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/ent.png" group-title="ENTERTAINMENT",MNC ENTERTAINMENT Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/celebrities.png" group-title="ENTERTAINMENT",CELEBRITIES TV Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/tv5_asia.png" group-title="ENTERTAINMENT",TV5 MONDE Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/abc_australia.png" group-title="ENTERTAINMENT",ABC AUSTRALIA Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/nhk_world.png" group-title="ENTERTAINMENT",NHK WORLD Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/nhk_premium.png" group-title="ENTERTAINMENT",NHK WORLD PREMIUM Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/arirang.png" group-title="ENTERTAINMENT",ARIRANG Auto Reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_1.png" group-title="ARAB SPORT", AL KASS SPORT 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master.m3u8
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_2.png" group-title="ARAB SPORT", AL KASS SPORT 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_3.png" group-title="ARAB SPORT", AL KASS SPORT 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master.m3u8
+#EXTINF:-1 tvg-logo="http://exaott.xyz/lagi/@_AR_BEINSPORTS_HD/AR_HD_ALKASS_4.png" group-title="ARAB SPORT", AL KASS SPORT 4
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b3128000_sleng.m3u8
 
 
 

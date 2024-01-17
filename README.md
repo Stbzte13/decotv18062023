@@ -2,64 +2,59 @@
 //copy right by,@hometv menampilkan playlist >>> LOKAL
 //======================================================================== 
 
-#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="GP_INDONESIA", MOJI Auto
+#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="🇮🇩 NASIONAL", MOJI Auto
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="GP_INDONESIA", MOJI HD
+EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="🇮🇩 NASIONAL", MOJI HD
 https://dev-multiwebdotnet.pantheonsite.io/MOJI HD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="GP_INDONESIA" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py", NET TV Auto
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py", NET TV Auto
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-EXTINF: -1 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="GP_INDONESIA", NET HD
+EXTINF: -1 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="🇮🇩 NASIONAL", NET HD
 https://dev-multiwebdotnet.pantheonsite.io/NET HD
 
-#EXTINF: -1 tvg-id="NET.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="GP_INDONESIA", NET SD
+#EXTINF: -1 tvg-id="NET.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="🇮🇩 NASIONAL", NET SD
 https://dev-multiwebdotnet.pantheonsite.io/zuov.m3u
 
-#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/d2l1" group-title="GP_INDONESIA", TVRI NASIONAL Auto
+#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/d2l1" group-title="🇮🇩 NASIONAL", TVRI NASIONAL Auto
 https://dev-multiwebdotnet.pantheonsite.io/6jz0
-#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/1gzy" group-title="GP_INDONESIA", TVRI WORLD Auto
+#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/1gzy" group-title="🇮🇩 NASIONAL", TVRI WORLD Auto
 https://dev-multiwebdotnet.pantheonsite.io/gpkd
-#EXTINF: -1 tvg-id="UseePrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ageq" group-title="GP_INDONESIA", USEE PRIME Auto
+#EXTINF: -1 tvg-id="UseePrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ageq" group-title="🇮🇩 NASIONAL", USEE PRIME Auto
 https://dev-multiwebdotnet.pantheonsite.io/tgb5
 
-#EXTINF: -1 tvg-id="CNBCIndonesia.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="GP_INDONESIA", CNBC Auto
+#EXTINF: -1 tvg-id="CNBCIndonesia.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="🇮🇩 NASIONAL", CNBC Auto
 https://dev-multiwebdotnet.pantheonsite.io/CNBC.m3u8
 
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="GP_INDONESIA", DIGIONE Auto
+#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="🇮🇩 NASIONAL", DIGIONE Auto
 https://dev-multiwebdotnet.pantheonsite.io/hnwu
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="indo.id" group-title="GP_INDONESIA" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",DUNIA LAIN Auto
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
-#EXTINF: -1 tvg-id="Garuda.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/psix" group-title="GP_INDONESIA", GARUDA TV Auto
+#EXTINF: -1 tvg-id="Garuda.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/psix" group-title="🇮🇩 NASIONAL", GARUDA TV Auto
 https://dev-multiwebdotnet.pantheonsite.io/z9er
 
-#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/jk75" group-title="GP_INDONESIA", MAGNA Auto
+#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/jk75" group-title="🇮🇩 NASIONAL", MAGNA Auto
 https://dev-multiwebdotnet.pantheonsite.io/c5pp
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="GP_INDONESIA", CITRA DRAMA Auto
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="🇮🇩 NASIONAL", CITRA DRAMA Auto
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-id="IMC.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/jz5u" group-title="GP_INDONESIA", IMC Auto
+#EXTINF: -1 tvg-id="IMC.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/jz5u" group-title="🇮🇩 NASIONAL", IMC Auto
 https://dev-multiwebdotnet.pantheonsite.io/wgwv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF: -1 tvg-id="VisionPrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/wz7j" group-title="GP_INDONESIA", VISION PRIME Auto
+#EXTINF: -1 tvg-id="VisionPrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/wz7j" group-title="🇮🇩 NASIONAL", VISION PRIME Auto
 https://dev-multiwebdotnet.pantheonsite.io/y1zm.mpd
 
-#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="GP_INDONESIA",VTV HD
+#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="🇮🇩 NASIONAL",VTV HD
 https://playlist-coffee.my.id/oxy/vtv.m3u8
 
 

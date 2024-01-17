@@ -1589,23 +1589,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 //copy right by,@hometv menampilkan playlist >>> LIVE | SPORTS
 //========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 1
-http://103.166.27.2:8112/play/a016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6MTI1ODRhOTUtOTFiMC00ZjlmLWEyMTAtNGE1ZWI5NjIzMjcx
-https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.pw/logo/sports/fifa.jpg" group-title="📌 | LIVE EVENT", FIFA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://i.mjh.nz/SamsungTVPlus/CHBA3300010UC.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 6
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=14250_&extension=ts
 
 
 #########################   "Live event 1  ##############################

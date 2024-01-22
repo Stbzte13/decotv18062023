@@ -5,9 +5,6 @@
 #EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="🇮🇩 NASIONAL", MOJI Auto
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-EXTINF: -1 tvg-name="MOJI" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="🇮🇩 NASIONAL", MOJI HD
-https://dev-multiwebdotnet.pantheonsite.io/MOJI HD
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -17,27 +14,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 EXTINF: -1 tvg-name="NET TV HD" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="🇮🇩 NASIONAL", NET HD
 https://dev-multiwebdotnet.pantheonsite.io/NET HD
 
-#EXTINF: -1 tvg-id="NET.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/p6py" group-title="🇮🇩 NASIONAL", NET SD
-https://dev-multiwebdotnet.pantheonsite.io/zuov.m3u
-
-#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/d2l1" group-title="🇮🇩 NASIONAL", TVRI NASIONAL Auto
-https://dev-multiwebdotnet.pantheonsite.io/6jz0
-#EXTINF: -1 tvg-id="TVRINasional.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/1gzy" group-title="🇮🇩 NASIONAL", TVRI WORLD Auto
-https://dev-multiwebdotnet.pantheonsite.io/gpkd
-#EXTINF: -1 tvg-id="UseePrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ageq" group-title="🇮🇩 NASIONAL", USEE PRIME Auto
-https://dev-multiwebdotnet.pantheonsite.io/tgb5
-
 #EXTINF: -1 tvg-id="CNBCIndonesia.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/m3ky" group-title="🇮🇩 NASIONAL", CNBC Auto
 https://dev-multiwebdotnet.pantheonsite.io/CNBC.m3u8
-
-#EXTINF: -1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/v6jl" group-title="🇮🇩 NASIONAL", DIGIONE Auto
-https://dev-multiwebdotnet.pantheonsite.io/hnwu
-
-#EXTINF: -1 tvg-id="Garuda.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/psix" group-title="🇮🇩 NASIONAL", GARUDA TV Auto
-https://dev-multiwebdotnet.pantheonsite.io/z9er
-
-#EXTINF: -1 tvg-id="MagnaChannel.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/jk75" group-title="🇮🇩 NASIONAL", MAGNA Auto
-https://dev-multiwebdotnet.pantheonsite.io/c5pp
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="🇮🇩 NASIONAL", CITRA DRAMA Auto
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
@@ -53,10 +31,6 @@ https://dev-multiwebdotnet.pantheonsite.io/wgwv.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF: -1 tvg-id="VisionPrime.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/wz7j" group-title="🇮🇩 NASIONAL", VISION PRIME Auto
 https://dev-multiwebdotnet.pantheonsite.io/y1zm.mpd
-
-#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.ytimg.com/vi/QWrTRx3BC9M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEQgPCh_MA8=&rs=AOn4CLCdZ3jVymuN681dNtQ1Jd-oMgh5Fg" group-title="🇮🇩 NASIONAL",VTV HD
-https://playlist-coffee.my.id/oxy/vtv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="🇮🇩 NASIONAL",TRANS 7 Auto Resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -221,9 +195,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 2" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 ############################
 ######## VIVA GROUP ########
@@ -451,17 +423,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 ######## ANAK ########
 ######################
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="biznetkids" tvg-logo="https://iptv.urfan.web.id/logo/bkids.png",Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1 group-title="👫 KIDS" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="AniPlus.th" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT2TPlTw9UEyby2dfW9tiLgEMqlO353dLvkDIUumg=s900-c-k-c0x00ffffff-no-rj",Aniplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="👫 KIDS" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
@@ -627,6 +592,28 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 ######### FILM #########
 ########################
 
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 1C
+http://iptvtree.net:8080/c4596f70/c3848d92/298526
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 2C
+http://iptvtree.net:8080/c4596f70/c3848d92/298527
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 3C
+http://iptvtree.net:8080/c4596f70/c3848d92/298528
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4B
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
+#EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="ETV BIOSKOP", ETV BIOSKOP 4C
+http://iptvtree.net:8080/c4596f70/c3848d92/298529
+
+
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="MOVIES",HBO Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
@@ -789,9 +776,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#EXTINF:-1 tvg-id="axnhd" group-title="MOVIES" tvg-logo="https://i.imgur.com/OnJMiz5.png",AXN Asia
-http://vthanhtivi.pw:5000/axn/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -963,8 +947,92 @@ http://208.115.225.174:14152
 http://208.115.225.174:14165
 
 
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> MOVIE2
+//========================================================================
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 1
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970637&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 2
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970636&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 3
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970635&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 4
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970634&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 5
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970633&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 6
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970632&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 7
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970631&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 8
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970630&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 9
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970629&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 10
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970628&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 11
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970627&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 12
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970626&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 13
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970625&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 14
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970624&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJDEJ_7QpbyfzGaoqVc8ZWaHYIkpmFJVfTA&usqp=CAU" group-title="ONDEMAND HBOMAX", HBO MAX 15
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=970623&extension=ts&play_token=yK7Ppvy2jW
 
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 1
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909381&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 2
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909380&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 3
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909379&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 4
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909378&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 5
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909377&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 6
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909376&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 7
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909375&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 8
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909374&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 9
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909373&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://files.cults3d.com/uploaders/15076709/illustration-file/70da090e-ea35-4ccb-a301-bc02b743a87c/2.jpg" group-title="ONDEMAND HULU", HULU 10
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=909372&extension=ts&play_token=yK7Ppvy2jW
+
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 1
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908388&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 2
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908387&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 3
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908386&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 4
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908385&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 5
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908384&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 6
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908383&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 7
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908382&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 8
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908381&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 9
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908380&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 10
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908379&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 11
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908378&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 12
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908377&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 13
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908376&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 14
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908375&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://www.majalahict.com/wp-content/uploads/2021/06/amazon-prime-viceo.jpeg" group-title="ONDEMAND AMAZON PRIME", AMAZON PRIME 15
+http://planetiptv.online/play/live.php?mac=00:1A:79:9E:99:0C&stream=908374&extension=ts&play_token=yK7Ppvy2jW
 
 
 
@@ -975,6 +1043,9 @@ http://208.115.225.174:14165
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> KNOWLEDGE
 //========================================================================
+
+#EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", Animal Planet
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571227&extension=ts&play_token=GVZS088tcf
 
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/mYzIX3J.png",Discovery Channel SEA HD

@@ -578,168 +578,168 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 ######################
 
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
+#EXTINF:-1 group-title="Kids" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg",IndiKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
+#EXTINF:-1 group-title="Kids" tvg-id="ebskids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="moonbugkids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
+#EXTINF:-1 group-title="Kids" tvg-id="moonbugkids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+#EXTINF:-1 group-title="Kids" tvg-id="pbskids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/640px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="spacetoonarabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
+#EXTINF:-1 group-title="Kids" tvg-id="spacetoonarabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="toonzkids.id" tvg-logo="https://i.imgur.com/gdlqRUy.png",Toonz Kids
+#EXTINF:-1 group-title="Kids" tvg-id="toonzkids.id" tvg-logo="https://i.imgur.com/gdlqRUy.png",Toonz Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="👫 KIDS" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
+#EXTINF:-1 group-title="Kids" tvg-id="zoomoo.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.png" group-title="👫 KIDS",SPACETOON Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.png" group-title="Kids",SPACETOON Auto Reso
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/boonie_cube.png" group-title="👫 KIDS",BOONIE CUBS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/boonie_cube.png" group-title="Kids",BOONIE CUBS Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/camp_spoopy.png" group-title="👫 KIDS",CAMP SPOOPY Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/camp_spoopy.png" group-title="Kids",CAMP SPOOPY Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/smurfs.png" group-title="👫 KIDS",SMURFS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/smurfs.png" group-title="Kids",SMURFS Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="👫 KIDS", TOON GOOGLES Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="Kids", TOON GOOGLES Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.jpg" group-title="👫 KIDS",KIDS FLIX Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.jpg" group-title="Kids",KIDS FLIX Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="👫 KIDS",SQUAD Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="Kids",SQUAD Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.png" group-title="👫 KIDS",SPARKLE POWER Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.png" group-title="Kids",SPARKLE POWER Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/on_nom.png" group-title="👫 KIDS",ON NOM Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/on_nom.png" group-title="Kids",ON NOM Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="👫 KIDS",GROSS OUT Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="Kids",GROSS OUT Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="👫 KIDS",TOON GOOGLES JR Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="Kids",TOON GOOGLES JR Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidstv.png" group-title="👫 KIDS",KIDS TV Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidstv.png" group-title="Kids",KIDS TV Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/nickelodeon.png" group-title="👫 KIDS",NICKELODEON Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/nickelodeon.png" group-title="Kids",NICKELODEON Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="👫 KIDS",MY KIDZ Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="Kids",MY KIDZ Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/dreamworks.png" group-title="👫 KIDS",DREAMWORS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/dreamworks.png" group-title="Kids",DREAMWORS Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 group-title="👫 KIDS" tvg-logo="https://hometv.pw/logo/kids/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
+#EXTINF:-1 group-title="Kids" tvg-logo="https://hometv.pw/logo/kids/cinemachi_kids.png",Cinemachi Kids HD Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/cbeebies.png" group-title="👫 KIDS",CBEEBIES Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/cbeebies.png" group-title="Kids",CBEEBIES Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/zoomoo.png" group-title="👫 KIDS",ZOO MOO Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/zoomoo.png" group-title="Kids",ZOO MOO Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/animax.png" group-title="👫 KIDS",ANIMAX Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/animax.png" group-title="Kids",ANIMAX Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/nick_jr.png" group-title="👫 KIDS",NICK JR Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/nick_jr.png" group-title="Kids",NICK JR Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/babytv.png" group-title="👫 KIDS",BABY TV Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/babytv.png" group-title="Kids",BABY TV Auto Reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/babyshark.png" group-title="👫 KIDS",BABY SHARK Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/babyshark.png" group-title="Kids",BABY SHARK Auto Reso
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.png" group-title="👫 KIDS",SPACETOON Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.png" group-title="Kids",SPACETOON Auto Reso
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/boonie_cube.png" group-title="👫 KIDS",BOONIE CUBS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/boonie_cube.png" group-title="Kids",BOONIE CUBS Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3507
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/camp_spoopy.png" group-title="👫 KIDS",CAMP SPOOPY Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/camp_spoopy.png" group-title="Kids",CAMP SPOOPY Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/smurfs.png" group-title="👫 KIDS",SMURFS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/smurfs.png" group-title="Kids",SMURFS Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="👫 KIDS", TOON GOOGLES Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_goggles.png" group-title="Kids", TOON GOOGLES Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.png" group-title="👫 KIDS",KIDS FLIX Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/kidsflix.png" group-title="Kids",KIDS FLIX Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="👫 KIDS",SQUAD Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/squad.png" group-title="Kids",SQUAD Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/circus.png" group-title="👫 KIDS",CARTOON CIRCUS Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/circus.png" group-title="Kids",CARTOON CIRCUS Auto Reso
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.png" group-title="👫 KIDS",SPARKLE POWER Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/sparkle_power.png" group-title="Kids",SPARKLE POWER Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=35
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/on_nom.png" group-title="👫 KIDS",ON NOM Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/on_nom.png" group-title="Kids",ON NOM Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="👫 KIDS",GROSS OUT Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/gross_out.png" group-title="Kids",GROSS OUT Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="👫 KIDS",TOON GOOGLES JR Auto Reso
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/toon_googles_jr.png" group-title="Kids",TOON GOOGLES JR Auto Reso
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="👫 KIDS",Dunia Anak
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="Kids",Dunia Anak
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -748,7 +748,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="👫 KIDS",Cartoon TV Premium
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="Kids",Cartoon TV Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -757,7 +757,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="👫 KIDS",Cartoon TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="Kids",Cartoon TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -766,7 +766,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr5QWyKltrB3ybFc6fdSzkybIK0B9JkGdOA&usqp=CAU" group-title="👫 KIDS",Cartoon TV Classics
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr5QWyKltrB3ybFc6fdSzkybIK0B9JkGdOA&usqp=CAU" group-title="Kids",Cartoon TV Classics
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1423,14 +1423,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="MOVIES",Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

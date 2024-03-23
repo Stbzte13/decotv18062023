@@ -1,11 +1,8 @@
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>> LOKAL
+----------------lokal --------------------------------
 //======================================================================== 
 
-#EXTINF: -1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.png" group-title="🇮🇩 NASIONAL", MOJI Auto
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL", MOJI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL", MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
@@ -14,17 +11,10 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/nettv.png", NET TV Auto
+#EXTINF:-1 group-title="🇮🇩 NASIONAL" tvg-logo="https://serikatnews.com/wp-content/uploads/2019/08/net.jpg", NET TV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-EXTINF: -1 tvg-name="NET TV HD" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="🇮🇩 NASIONAL", NET HD
-https://dev-multiwebdotnet.pantheonsite.io/NET HD
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="🇮🇩 NASIONAL", CITRA DRAMA Auto
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="🇮🇩 NASIONAL",TRANS 7 Auto Resolusi
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="🇮🇩 NASIONAL",TRANS 7 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1242509765_b744100_sleng.m3u8

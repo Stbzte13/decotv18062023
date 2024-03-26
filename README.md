@@ -1164,6 +1164,11 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 ######### FILM #########
 ########################
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ACTION
+https://cobra.9bg.net/nSn8qt4aW9ycpRWs3S-aEzY2Moy_G27nxEv4hyF_YkEOwyvKXO9QR4Kbd_V3e01gDjzRBt7iDaRdlCBh3YnyyA/lSd5qdD-BRmrpvBHUuOZxClWX2BM5WqscK0aHSOLSzc/1080.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 1B
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526

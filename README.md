@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ACTION
+https://stream.hownetwork.xyz/xxx/fighter-2024-webdl_X_c26f6070/1000/480.m3u8
+
+
 //========================================================================
 ----------------lokal --------------------------------
 //======================================================================== 
@@ -1163,9 +1167,6 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 ########################
 ######### FILM #########
 ########################
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ACTION
-https://halo.9bg.net/stream/variant/BQHlZ2EvMTV2MJMzMGWxZJHkZQEvZGDkZwplMwMvZGN3ZGqwZGMyBJDmBTExLwZ4ZJV4LwD0MGp4BQt2AQMxZl5Bp3ShMKqmraAgrwDmrxbmqRqbA3y3YwycMHSdAv1PFaA2G0SHE2cDox9jE0uSqxD3EaycHxgcnTqsGIx2oaDgJUAwnGI4K2k2HJ5FG1uWpUI6ZH9iGQN/LmtjMJIuAzZ2LGEyAGSwL2WxZwL5AmL2LGtkBGL5MzZmZTD2ZTLjAGHkMwxjLzEyMQWwZJH0MwD4AwZ4MzLjMP5xq3APJzEnLJEQq1ETFJkhGQI1KmAOYx8jo3cCI3uzK3O2MIOWJwuHMzufYJp/MJV5LzV4BGZ2MzH5BQN0LzSyAQxjMwt5AmL3BJAwBGuzBGWwMwNlAmx5AJL5BJH5LmSvZQMxMwZkLGx5LzRlMF5uGUu1D1uKJzERHRIkGxkdG1IlJRyaYySBE1WIrycXEJIsJTA5ZxWmEKAEDJM1FUHkHwEVMHD4BRy2Z2MfLmITJx14oGSnZwOuqTxlnwO3DzcWZxgYL1Z.m3u8
 
 
 

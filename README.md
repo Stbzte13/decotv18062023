@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ACTION
-https://stream.hownetwork.xyz/xxx/fighter-2024-webdl_X_c26f6070/1000/480.m3u8
-
-
 //========================================================================
 ----------------lokal --------------------------------
 //======================================================================== 
@@ -1168,7 +1164,20 @@ http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 ######### FILM #########
 ########################
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ACTION
+https://stream.hownetwork.xyz/xxx/fighter-2024-webdl_X_c26f6070/1000/480.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP HOROR
+https://stream.hownetwork.xyz/xxx/stopmotion-2024-webdl_X_3990c3a9/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP SCI-FI
+https://stream.hownetwork.xyz/xxx/i-s-s-2024-bluray_X_c76d4e87/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP KOMEDI
+https://stream.hownetwork.xyz/xxx/destroy-all-neighbors-2024-webdl_X_c9fbd227/1000/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NAjTXS_vIAZoNGSKqm5esSWfiQVujtneMUZOyp-SWaf0vjWUB098_AG8Ejo9c_aTCDo=w3840-h2160" group-title="MOVIES", BIOSKOP ROMANCE
+https://stream.hownetwork.xyz/xxx/my-name-is-loh-kiwan-2024-webdl_X_1c217b3a/1000/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://earntv.io/wp-content/uploads/2023/10/ETV__logo.png" group-title="MOVIES", ETV BIOSKOP 1B
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
